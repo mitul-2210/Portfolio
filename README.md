@@ -37,8 +37,8 @@ I am a passionate developer with experience in various technologies, including M
 
 ## 📬 Contact
 - **GitHub**: [@mitul-2210](https://github.com/mitul-2210)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Mitul Tandon](www.linkedin.com/in/mitul-tandon-a9b873245)
+- **Email**: tandonmitul277@gmail.com
 
 ---
 
